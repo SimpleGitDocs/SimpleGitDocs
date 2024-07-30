@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /Assets/
-Disallow: /404.html
-
-Sitemap: {OGP_URL_BASE}/sitemap.xml
